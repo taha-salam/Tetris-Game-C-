@@ -33,11 +33,7 @@ Stack and clear rows of blocks by rotating and placing falling tetromino pieces.
 - Strengthened understanding of real-time graphics and event handling using SFML.
 - Improved logical problem-solving skills for implementing collision detection and game loops.
 - Built foundational skills for game development workflows and user interaction handling in C++.
-
-## 📸 Screenshots
-
-*Add gameplay screenshots here for better presentation on GitHub.*
-
+  
 ## ⚙️ How to Run
 
 1. **Ensure SFML is installed and linked in your Visual Studio project:**
